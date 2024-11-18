@@ -51,7 +51,7 @@
 .cv-summary-items-container {
   margin-bottom:0;
   margin-top:0;
-  padding-inline-start:48px;
+  /* padding-inline-start:48px; */
 }
 
 .cd-container {
@@ -114,7 +114,7 @@ Main components
   left: 18px;
   height: 100%;
   width: 4px;
-  background: #7E57C2;
+  background: #334155;
 }
 
 .cd-timeline-block {
@@ -143,11 +143,11 @@ Main components
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  box-shadow: 0 0 0 3px #7E57C2, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 0 3px #334155, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
 }
 
 .cd-timeline-img {
-  background: #673AB7;
+  background: #d2f2e9;
 }
 
 .cd-timeline-content {
